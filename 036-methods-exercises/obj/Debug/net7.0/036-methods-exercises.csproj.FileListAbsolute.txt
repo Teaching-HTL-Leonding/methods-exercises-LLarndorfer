@@ -1,0 +1,15 @@
+C:\Users\User\Documents\HTL\Pro\036-methods-exercises\bin\Debug\net7.0\036-methods-exercises.exe
+C:\Users\User\Documents\HTL\Pro\036-methods-exercises\bin\Debug\net7.0\036-methods-exercises.deps.json
+C:\Users\User\Documents\HTL\Pro\036-methods-exercises\bin\Debug\net7.0\036-methods-exercises.runtimeconfig.json
+C:\Users\User\Documents\HTL\Pro\036-methods-exercises\bin\Debug\net7.0\036-methods-exercises.dll
+C:\Users\User\Documents\HTL\Pro\036-methods-exercises\bin\Debug\net7.0\036-methods-exercises.pdb
+C:\Users\User\Documents\HTL\Pro\036-methods-exercises\obj\Debug\net7.0\036-methods-exercises.csproj.AssemblyReference.cache
+C:\Users\User\Documents\HTL\Pro\036-methods-exercises\obj\Debug\net7.0\036-methods-exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HTL\Pro\036-methods-exercises\obj\Debug\net7.0\036-methods-exercises.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HTL\Pro\036-methods-exercises\obj\Debug\net7.0\036-methods-exercises.AssemblyInfo.cs
+C:\Users\User\Documents\HTL\Pro\036-methods-exercises\obj\Debug\net7.0\036-methods-exercises.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HTL\Pro\036-methods-exercises\obj\Debug\net7.0\036-methods-exercises.dll
+C:\Users\User\Documents\HTL\Pro\036-methods-exercises\obj\Debug\net7.0\refint\036-methods-exercises.dll
+C:\Users\User\Documents\HTL\Pro\036-methods-exercises\obj\Debug\net7.0\036-methods-exercises.pdb
+C:\Users\User\Documents\HTL\Pro\036-methods-exercises\obj\Debug\net7.0\036-methods-exercises.genruntimeconfig.cache
+C:\Users\User\Documents\HTL\Pro\036-methods-exercises\obj\Debug\net7.0\ref\036-methods-exercises.dll
